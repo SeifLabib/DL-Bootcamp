@@ -75,4 +75,8 @@ pip install torch
 conda install numpy matplotlib seaborn
 conda install ipykernel
 pip install jupyter
+pip install torchvision
+pip install tqdm
+pip install wandb==0.16.6
+pip install "numpy<2.0"
 ```
